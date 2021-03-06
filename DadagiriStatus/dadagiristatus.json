@@ -1,4 +1,9 @@
-[
-  {"name": "abc", "email": "abc@example.com"},
-  {"name": "xyz", "email": "xyz@example.com"}
-]
+{
+  "attitudeStatus":[
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+  ]
+}
